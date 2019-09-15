@@ -1,7 +1,7 @@
  # Site settings
 baseurl = "https://www.vivianlark.com"
 languageCode = "en-us"
-title = "Vivian Lark"
+title = "www.VivianLark.com"
 theme = "hugo-highlights-theme"
 
 # Enter your tracking code to enable Google analytics
