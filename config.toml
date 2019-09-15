@@ -1,5 +1,5 @@
  # Site settings
-baseurl = "https://fervent-goodall-bcfde9.netlify.com"
+baseurl = ""
 languageCode = "en-us"
 title = "www.VivianLark.com"
 theme = "hugo-highlights-theme"
