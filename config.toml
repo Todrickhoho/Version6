@@ -1,0 +1,165 @@
+ # Site settings
+baseurl = "https://www.vivianlark.com"
+languageCode = "en-us"
+title = "Vivian Lark"
+theme = "hugo-highlights-theme"
+
+# Enter your tracking code to enable Google analytics
+googleAnalytics = ""
+
+[params]
+
+  # You can use Markdown for urls [text](//domain.tld/source)
+  #
+  # All icons using Fontawesom's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+  # for more icons.
+
+  # To provide more meta data for search engings feel free to add a few informations.
+  # This lines will be inserted as meta tags.
+  name = "Vivian Lark"
+  description = "Author,Artist"
+  # For a static site it's not possible to provide a contact form. The contact form uses
+  # www.formspree.io as a proxy. The form makes a Post request to their servers to send an email
+  # Visitors can send up to a 1000 emails each month
+  #
+  # How to setup formspree
+  #
+  # - set your email address under 'email' below
+  # - upload the generated site to your server
+  # - send a dummy email to yourself to confirm your account
+  # - click the confirmation link in the email from www.formspree.io
+  # - That's all. Enjoy mailing!
+  email = "vivianlark@outlook.com"
+
+  # If this param is set to true, every section gets an own background image (located at static/images)
+  # to change the image you could use the param picture on every section.
+  # If it's disabled you could change the background to overwrite the bg.jpg and overlay.png to set the background.
+  backgroundpersection = true
+
+  # hero Section
+  [params.hero]
+    # the picture is stored at static/photos
+        type = "hero"
+    title = "Vivian Lark"
+    description = "Her latest release is out as a Paperback or Ebook! [The Jailer's Way](https://www.amazon.com/gp/product/1070311421/ref=dbs_a_def_rwt_bibl_vppi_i0)"
+    buttontext = "begin"
+
+  # about section
+  [[params.block]]
+    id = "about"
+    type = "text"
+    title = "Who am I"
+    description = "I am often teased for fully engulfing myself in a whim for six months and then moving on to the next idea. Having a creative outlet, learning new things, and a having a project is as important and necessary as the morning coffee, and air. (Yes, they are equal, don't judge)."
+    buttontext = "next"
+    # the picture is stored at static/images/
+    picture = "pic01.jpg"
+
+  # skill section
+  [[params.block]]
+    id = "skills"
+    type = "list"
+    title = "Stuff I do"
+    description = "My childhood taught me that *having enough* is all we actually needed, and that material things are not the recipe for creativity. From the age of nine I have drawn and painted, testing out various mediums, finally settling on charcoal and watercolor portraits."
+    buttontext = "next"
+    # the picture is stored at static/images/
+    picture = "pic02.jpg"
+
+    [[params.block.item]]
+      icon = "fa-music"
+      title = "Music"
+
+    [[params.block.item]]
+      icon = "fa-paint-brush"
+      title = "Watercolor"
+
+    [[params.block.item]]
+      icon = "fa-etsy"
+      title = "Meloworks Studio"
+
+    [[params.block.item]]
+      icon = "fa-coffee"
+      title = "My Coffee"
+
+  # infos section
+  [[params.block]]
+    id = "infos"
+    type = "text"
+    title = "One more thing"
+    description = "It's a busy life, but every day adds to the plots and adventures that drive my story. To see what I've been up to lately, click on the links below."
+    # the picture is stored at static/images/
+    picture = "pic03.jpg"
+
+#  # custom section
+#  [[params.block]]
+#    id = "important"
+#    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+#    type = "custom"
+#    title = "Don't forget"
+#    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
+#    # the picture is stored at static/images/
+#    picture = "pic04.jpg"
+
+  # contact form
+  [[params.block]]
+    id = "contact"
+    type = "contact"
+    title = "Get in Touch"
+    picture = "pic05.jpg"
+
+    [params.block.form]
+      name = "Name"
+      email = "Your Email"
+      message = "Your Message"
+      buttontext = "send message"
+
+  # footer section
+  # this section includes last block and social icons
+
+  [params.footer]
+    enable = true
+
+    # social icons
+    [params.footer.social_list]
+      enable = true
+
+      [[params.footer.social]]
+        title = "Twitter"
+        icon = "fa-twitter"
+        link = "https://twitter.com/LarkVivian"
+
+      [[params.footer.social]]
+        title = "Facebook"
+        icon = "fa-facebook"
+        link = "https://www.facebook.com/vivian.lark.777"
+
+      [[params.footer.social]]
+        title = "Instagramm"
+        icon = "fa-instagram"
+        link = "https://www.instagram.com/vivianlark.author.artist/"
+
+      [[params.footer.social]]
+        title = "Amazon"
+        icon = "fa-amazon"
+        link = "https://www.amazon.com/Vivian-Lark/e/B07S8R1Z9B?ref_=dbs_p_ebk_r00_abau_000000"
+
+        [[params.footer.social]]
+        title = "Etsy"
+        icon = "fa-etsy"
+        link = "https://www.etsy.com/shop/MeloworksStudio"
+
+      [[params.footer.social]]
+        title = ""
+        icon = "" 
+        link = ""
+
+    # copyright
+    #[params.footer.copyright.notice]
+
+      [[params.footer.copyright.notice]]
+        text = "© TodrickHoho Productions"
+
+      [[params.footer.copyright.notice]]
+        text = "Design: [HTML5UP](//html5up.net)"
+
+      [[params.footer.copyright.notice]]
+text = "Demo Images: [Unsplash](//unsplash.com/)"
