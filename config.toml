@@ -104,7 +104,7 @@ googleAnalytics = ""
     id = "contact"
     type = "contact"
     title = "Get in Touch"
-    picture = "pic05.jpg"
+    picture = "Card_Photo.png"
 
     [params.block.form]
       name = "Name"
