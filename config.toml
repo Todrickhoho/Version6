@@ -38,10 +38,10 @@ googleAnalytics = ""
 
   # hero Section
   [params.hero]
-    # the picture is stored at static/photos
-        type = "hero"
+    # the picture is stored at static/images/
+            type = "hero"
     title = "Vivian Lark"
-    description = "Her latest release is out as a Paperback or Ebook! [The Jailer's Way](https://www.amazon.com/gp/product/1070311421/ref=dbs_a_def_rwt_bibl_vppi_i0)"
+    description = "[The Jailer's Way](https://www.amazon.com/gp/product/1070311421/ref=dbs_a_def_rwt_bibl_vppi_i0) in Paperback or Ebook!"
     buttontext = "begin"
 
   # about section
@@ -52,7 +52,7 @@ googleAnalytics = ""
     description = "I am often teased for fully engulfing myself in a whim for six months and then moving on to the next idea. Having a creative outlet, learning new things, and a having a project is as important and necessary as the morning coffee, and air. (Yes, they are equal, don't judge)."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic01.jpg"
+    picture = "Headshot_Photo.jpg"
 
   # skill section
   [[params.block]]
@@ -62,7 +62,7 @@ googleAnalytics = ""
     description = "My childhood taught me that *having enough* is all we actually needed, and that material things are not the recipe for creativity. From the age of nine I have drawn and painted, testing out various mediums, finally settling on charcoal and watercolor portraits."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic02.jpg"
+    picture = "Book_Photo.jpg"
 
     [[params.block.item]]
       icon = "fa-music"
@@ -70,7 +70,7 @@ googleAnalytics = ""
 
     [[params.block.item]]
       icon = "fa-paint-brush"
-      title = "Watercolor"
+      title = "Watercolor" 
 
     [[params.block.item]]
       icon = "fa-etsy"
@@ -87,7 +87,7 @@ googleAnalytics = ""
     title = "One more thing"
     description = "It's a busy life, but every day adds to the plots and adventures that drive my story. To see what I've been up to lately, click on the links below."
     # the picture is stored at static/images/
-    picture = "pic03.jpg"
+    picture = "Art_Photo.png"
 
 #  # custom section
 #  [[params.block]]
