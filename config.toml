@@ -74,11 +74,11 @@ googleAnalytics = ""
 
     [[params.block.item]]
       icon = "fa-etsy"
-      title = "Meloworks Studio"
+      title = "[Meloworks Studio](https://www.etsy.com/shop/MeloworksStudio)"
 
     [[params.block.item]]
       icon = "fa-coffee"
-      title = "My Coffee"
+      title = "[My Coffee](https://www.instagram.com/secondwindcoffee)"
 
   # infos section
   [[params.block]]
