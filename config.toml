@@ -123,24 +123,24 @@ googleAnalytics = ""
       enable = true
 
       [[params.footer.social]]
-        title = "Twitter"
-        icon = "fa-twitter"
-        link = "https://twitter.com/LarkVivian"
-
-      [[params.footer.social]]
-        title = "Facebook"
-        icon = "fa-facebook"
-        link = "https://www.facebook.com/vivian.lark.777"
-
-      [[params.footer.social]]
         title = "Instagramm"
         icon = "fa-instagram"
         link = "https://www.instagram.com/vivianlark.author.artist/"
 
       [[params.footer.social]]
+        title = ""
+        icon = ""
+        link = ""
+
+      [[params.footer.social]]
         title = "Amazon"
         icon = "fa-amazon"
         link = "https://www.amazon.com/Vivian-Lark/e/B07S8R1Z9B?ref_=dbs_p_ebk_r00_abau_000000"
+
+      [[params.footer.social]]
+        title = ""
+        icon = ""
+        link = ""
 
         [[params.footer.social]]
         title = "Etsy"
