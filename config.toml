@@ -73,7 +73,7 @@ googleAnalytics = ""
       title = "Watercolor" 
 
     [[params.block.item]]
-      icon = "[fa-etsy](https://www.etsy.com/shop/MeloworksStudio)"
+      icon = "fa-etsy"
       title = "Meloworks Studio"
 
     [[params.block.item]]
