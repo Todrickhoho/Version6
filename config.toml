@@ -41,7 +41,8 @@ googleAnalytics = ""
     # the picture is stored at static/images/
             type = "hero"
     title = "Vivian Lark"
-    description = "[The Jailer's Way](https://www.amazon.com/gp/product/1070311421/ref=dbs_a_def_rwt_bibl_vppi_i0) in Paperback or Ebook!"
+    description = "Author & Artist
+    Click on the links below to view the online gallery, contact me for commissions, order a copy of "The Jailer's Way," or visit my Etsy shop to see what pieces are available."
     buttontext = "begin"
 
   # about section
@@ -49,7 +50,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "I am often teased for fully engulfing myself in a whim for six months and then moving on to the next idea. Having a creative outlet, learning new things, and a having a project is as important and necessary as the morning coffee, and air. (Yes, they are equal, don't judge)."
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to "The Jailer's Way." I absolutely love to paint and draw using different mediums and am happy to accept portrait and landscape commissions."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Headshot_Photo.jpg"
@@ -59,7 +60,7 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "Stuff I do"
-    description = "My childhood taught me that *having enough* is all we actually needed, and that material things are not the recipe for creativity. From the age of nine I have drawn and painted, testing out various mediums, finally settling on charcoal and watercolor portraits."
+    description = "From a young age, I have enjoyed having new projects and learning new ways of putting on canvas or paper the beautiful things I see around me. I started out painting in oil, but I found watercolor to be what I enjoy the most. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story beginning and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Book_Photo.jpg"
@@ -84,8 +85,8 @@ googleAnalytics = ""
   [[params.block]]
     id = "infos"
     type = "text"
-    title = "One more thing"
-    description = "It's a busy life, but every day adds to the plots and adventures that drive my story. To see what I've been up to lately, click on the links below."
+    title = ""
+    description = ""
     # the picture is stored at static/images/
     picture = "Art_Photo.png"
 
