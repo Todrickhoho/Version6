@@ -85,7 +85,7 @@ googleAnalytics = ""
     id = "infos"
     type = "text"
     title = "Gallery"
-    description = "This is a sample of the mediums I explore and create with."
+    description = "If you have any questions I would love to hear from you. If you would like a commission quote, or to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
     picture = "Watercolor -3.50.png"
   # custom section
