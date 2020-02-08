@@ -41,7 +41,7 @@ googleAnalytics = ""
     # the picture is stored at static/images/
             type = "hero"
     title = "Vivian Lark"
-    description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of **The Jailer's Way**, or visit my Etsy shop to see what pieces are available.*same paragraph*"
+    description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of **The Jailer's Way**, or visit my Etsy shop to see what pieces are available."
     buttontext = "begin"
 
   # about section
@@ -49,37 +49,39 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and am happy to accept portrait and landscape commissions*same paragraph*."
-    buttontext = "next"
     # the picture is stored at static/images/
     picture = "Headshot_Photo.jpg"
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and am happy to accept portrait and landscape commissions."
+    buttontext = "next"
+    # the picture is stored at static/images/
+    picture = "pic04.jpg"
 
   # skill section
   [[params.block]]
     id = "skills"
     type = "list"
     title = "Stuff I do"
+    # the picture is stored at static/images/
+    picture = "book display.jpg"
     description = "From a young age, I have enjoyed having new projects and learning new ways of putting on canvas or paper the beautiful things I see around me. I started out painting in oil, but I found watercolor to be what I enjoy the most. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story beginning and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "book display.jpg"
+    picture = "pic04.jpg"
 
-    [[params.block.item]]
-      icon = "fa-music"
-      title = "Music"
+   # [[params.block.item]]
+    #  icon = "fa-music"
+    #  title = "Music"
 
     [[params.block.item]]
       icon = "fa-paint-brush"
-      title = "Watercolor" 
-
+      title = "Artwork" 
+      # the picture is stored at static/images/
+      picture = "meloworks studio.30.png"
     [[params.block.item]]
       icon = "fa-etsy"
       title = "Meloworks Studio"
-
-    [[params.block.item]]
-      icon = "fa-coffee"
-      title = "My Coffee"
-
+      # the picture is stored at static/images/
+      picture = "meloworks studio.30.png"
 #  # custom section
 #  [[params.block]]
 #    id = "important"
@@ -139,10 +141,10 @@ googleAnalytics = ""
         icon = "fa-etsy"
         link = "https://www.etsy.com/shop/MeloworksStudio"
 
-      [[params.footer.social]]
-        title = ""
-        icon = "" 
-        link = ""
+  #    [[params.footer.social]]
+   #     title = ""
+    #    icon = "" 
+     #   link = ""
 
     # copyright
     #[params.footer.copyright.notice]
