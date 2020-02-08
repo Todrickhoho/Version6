@@ -39,9 +39,9 @@ googleAnalytics = ""
   # hero Section
   [params.hero]
     # the picture is stored at static/images/
-            type = "hero"
+    type = "hero"
     title = "Vivian Lark"
-    description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of **The Jailer's Way**, or visit my Etsy shop to see what pieces are available."
+    description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what pieces are available."
     buttontext = "begin"
 
   # about section
@@ -81,7 +81,7 @@ googleAnalytics = ""
      # title = "Meloworks Studio"
       # the picture is stored at static/images/
       #picture = "meloworks studio.30.png"
-#  # custom section
+  # custom section
   [[params.block]]
     id = "important"
     # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
