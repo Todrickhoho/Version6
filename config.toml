@@ -95,6 +95,7 @@ googleAnalytics = ""
     id = "contact"
     type = "contact"
     title = "Get in Touch"
+    # the picture is stored at static/images/
     picture = "meloworks studio.30.png"
 
     [params.block.form]
