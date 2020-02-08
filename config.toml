@@ -50,10 +50,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. 
-                   I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. 
-                   I absolutely love to paint and draw using different mediums and am happy to accept portrait and 
-                   landscape commissions*same paragraph*."
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and am happy to accept portrait and landscape commissions*same paragraph*."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Headshot_Photo.jpg"
