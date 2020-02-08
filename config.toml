@@ -64,15 +64,40 @@ googleAnalytics = ""
     # the picture is stored at static/images/
     picture = "book display.jpg"
     
-  # custom section
+     [[params.block.item]]
+      icon = "fa-music"
+      title = "Music"
+
+    [[params.block.item]]
+      icon = "fa-paint-brush"
+      title = "Watercolor"
+
+    [[params.block.item]]
+      icon = "fa-etsy"
+      title = "Meloworks Studio"
+
+    [[params.block.item]]
+      icon = "fa-coffee"
+      title = "My Coffee"
+
+  # infos section
   [[params.block]]
-    id = "important"
-    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
-    type = "custom"
+    id = "infos"
+    type = "text"
     title = "My Artwork"
-    description = "This is a sample of the mediums I explore with."
+    description = "This is a sample of the mediums I explore and create with."
     # the picture is stored at static/images/
     picture = "Watercolor -3.50.png"
+  # custom section
+  
+  #[[params.block]]
+   # id = "important"
+    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+   # type = "custom"
+   # title = "My Artwork"
+   # description = "This is a sample of the mediums I explore with."
+    # the picture is stored at static/images/
+   # picture = "Watercolor -3.50.png"
 
   # contact form
   [[params.block]]
