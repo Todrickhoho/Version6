@@ -70,13 +70,13 @@ googleAnalytics = ""
     #  icon = "fa-music"
     #  title = "Music"
 
-    [[params.block.item]]
+   # [[params.block.item]]
    #   icon = "fa-paint-brush"
   #    title = "Artwork" 
       # the picture is stored at static/images/
      # picture = "Watercolor -3.50.png"
       
-    [[params.block.item]]
+   # [[params.block.item]]
    #  icon = "fa-etsy"
      # title = "Meloworks Studio"
       # the picture is stored at static/images/
@@ -84,12 +84,12 @@ googleAnalytics = ""
   # custom section
   [[params.block]]
     id = "important"
-    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
-    type = "custom"
-    title = "My Artwork"
+  #  # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+   type = "custom"
+   title = "My Artwork"
 #    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
     # the picture is stored at static/images/
-    picture = "Watercolor -3.50.png"
+   picture = "Watercolor -3.50.png"
 
   # contact form
   [[params.block]]
