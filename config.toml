@@ -40,8 +40,7 @@ googleAnalytics = ""
   [params.hero]
     # the picture is stored at static/images/
             type = "hero"
-    title = "Vivian Lark
-              Author/Artist*same paragraph*"
+    title = "Vivian Lark"
     description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of **The Jailer's Way**,
                      or visit my Etsy shop to see what pieces are available.*same paragraph*"
     buttontext = "begin"
@@ -52,7 +51,7 @@ googleAnalytics = ""
     type = "text"
     title = "Who am I"
     description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. 
-                   I am currently working on a children's book, and putting together the sequel to *The Jailer's Way*. 
+                   I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. 
                    I absolutely love to paint and draw using different mediums and am happy to accept portrait and 
                    landscape commissions*same paragraph*."
     buttontext = "next"
