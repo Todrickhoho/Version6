@@ -61,37 +61,35 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "Stuff I do"
-    # the picture is stored at static/images/
-    picture = "book display.jpg"
     description = "From a young age, I have enjoyed having new projects and learning new ways of putting on canvas or paper the beautiful things I see around me. I started out painting in oil, but I found watercolor to be what I enjoy the most. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story beginning and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
-  #  picture = "pic03.jpg"
+    picture = "book display.jpg"
 
    # [[params.block.item]]
     #  icon = "fa-music"
     #  title = "Music"
 
     [[params.block.item]]
-      icon = "fa-paint-brush"
-      title = "Artwork" 
+   #   icon = "fa-paint-brush"
+  #    title = "Artwork" 
       # the picture is stored at static/images/
-      picture = "meloworks studio.30.png"
+     # picture = "Watercolor -3.50.png"
       
     [[params.block.item]]
-      icon = "fa-etsy"
-      title = "Meloworks Studio"
+   #  icon = "fa-etsy"
+     # title = "Meloworks Studio"
       # the picture is stored at static/images/
-      picture = "meloworks studio.30.png"
+      #picture = "meloworks studio.30.png"
 #  # custom section
-#  [[params.block]]
-#    id = "important"
-#    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
-#    type = "custom"
-#    title = "Don't forget"
+  [[params.block]]
+    id = "important"
+    # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
+    type = "custom"
+    title = "My Artwork"
 #    description = "Curabitur massa ante, semper at massa et, semper pellentesque velit. Duis tempor est nisi, a gravida risus malesuada eget. Nunc rutrum arcu laoreet mauris sodales vehicula. Nunc iaculis felis ac dui egestas, vel ullamcorper tellus bibendum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lacinia sem porttitor, fringilla metus at, convallis quam. Integer convallis a justo non pellentesque."
-#    # the picture is stored at static/images/
-#    picture = "pic04.jpg"
+    # the picture is stored at static/images/
+    picture = "Watercolor -3.50.png"
 
   # contact form
   [[params.block]]
@@ -99,7 +97,7 @@ googleAnalytics = ""
     type = "contact"
     title = "Get in Touch"
     # the picture is stored at static/images/
-    picture = "pic05.jpg"
+    picture = "meloworks studio.30.png"
 
     [params.block.form]
       name = "Name"
