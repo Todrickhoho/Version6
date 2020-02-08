@@ -54,7 +54,7 @@ googleAnalytics = ""
     description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and am happy to accept portrait and landscape commissions."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic04.jpg"
+    picture = "pic02.jpg"
 
   # skill section
   [[params.block]]
@@ -66,7 +66,7 @@ googleAnalytics = ""
     description = "From a young age, I have enjoyed having new projects and learning new ways of putting on canvas or paper the beautiful things I see around me. I started out painting in oil, but I found watercolor to be what I enjoy the most. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story beginning and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "pic04.jpg"
+    picture = "pic03.jpg"
 
    # [[params.block.item]]
     #  icon = "fa-music"
@@ -77,6 +77,7 @@ googleAnalytics = ""
       title = "Artwork" 
       # the picture is stored at static/images/
       picture = "meloworks studio.30.png"
+      
     [[params.block.item]]
       icon = "fa-etsy"
       title = "Meloworks Studio"
@@ -98,7 +99,7 @@ googleAnalytics = ""
     type = "contact"
     title = "Get in Touch"
     # the picture is stored at static/images/
-    picture = "meloworks studio.30.png"
+    picture = "pic05.jpg"
 
     [params.block.form]
       name = "Name"
