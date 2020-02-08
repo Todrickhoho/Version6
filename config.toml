@@ -65,6 +65,10 @@ googleAnalytics = ""
     picture = "book display.jpg"
     
      [[params.block.item]]
+       icon = "fa-coffee"
+       title = "Coffee"
+
+    [[params.block.item]]
       icon = "fa-music"
       title = "Music"
 
@@ -76,15 +80,11 @@ googleAnalytics = ""
       icon = "fa-etsy"
       title = "Meloworks Studio"
 
-    [[params.block.item]]
-      icon = "fa-coffee"
-      title = "My Coffee"
-
   # infos section
   [[params.block]]
     id = "infos"
     type = "text"
-    title = "My Artwork"
+    title = "Gallery"
     description = "This is a sample of the mediums I explore and create with."
     # the picture is stored at static/images/
     picture = "Watercolor -3.50.png"
