@@ -126,7 +126,7 @@ googleAnalytics = ""
       [[params.footer.social]]
         title = "Instagramm"
         icon = "fa-instagram"
-        link = "https://www.instagram.com/vivianlark.author.artist/"
+        link = "https://www.instagram.com/meloworks_studio"
 
       [[params.footer.social]]
         title = ""
