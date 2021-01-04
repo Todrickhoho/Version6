@@ -52,7 +52,7 @@ googleAnalytics = ""
     description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and I am happy to accept portrait and landscape commissions."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "Headshot_Photo.jpg"
+    # picture = "Headshot_Photo.jpg"
 
   # skill section
   [[params.block]]
