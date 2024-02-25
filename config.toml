@@ -145,7 +145,7 @@ googleAnalytics = ""
         [[params.footer.social]]
         title = "Etsy"
         icon = "fa-etsy"
-        link = "https://www.etsy.com/shop/MeloworksStudio"
+        link = "https://www.etsy.com/shop/MeloworksStudio/"
 
       [[params.footer.social]]
         title = ""
