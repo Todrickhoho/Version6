@@ -72,7 +72,7 @@ googleAnalytics = ""
     title = "Gallery"
     description = "If you have any questions I would love to hear from you. If you would like to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
-    picture = "Watercolor -3.50.png"
+    picture = "Comp-1.jpg"
   # custom section
   
   #[[params.block]]
@@ -82,7 +82,7 @@ googleAnalytics = ""
    # title = "My Artwork"
    # description = "This is a sample of the mediums I explore with."
     # the picture is stored at static/images/
-   # picture = "Watercolor -3.50.png"
+   # picture = "Comp-2.jpg"
 
   # contact form
   [[params.block]]
@@ -90,7 +90,7 @@ googleAnalytics = ""
     type = "contact"
     title = "Get in Touch"
     # the picture is stored at static/images/
-    picture = "meloworks studio.30.png"
+    picture = "Comp-2.jpg"
 
     [params.block.form]
       name = "Name"
