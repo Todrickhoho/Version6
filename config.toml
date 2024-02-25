@@ -41,7 +41,7 @@ googleAnalytics = ""
     # the picture is stored at static/images/
     type = "hero"
     title = "Vivian Lark"
-    description = "Click on the links below to view the online gallery, contact me for commissions, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what pieces are available."
+    description = "Click on the links below to view the online gallery, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what pieces are available."
     buttontext = "begin"
 
   # about section
@@ -49,7 +49,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I am currently working on a children's book, and putting together the sequel to **The Jailer's Way**. I absolutely love to paint and draw using different mediums and I am happy to accept portrait and landscape commissions."
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. My favorites being oil, ink, and watercolor. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas.I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story, and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Art_Photo.png"
@@ -58,34 +58,19 @@ googleAnalytics = ""
   [[params.block]]
     id = "skills"
     type = "list"
-    title = "Stuff I do"
-    description = "From a young age, I have enjoyed having new projects and learning new ways of putting the beautiful things I see around me onto paper and canvas. I started out painting in oil, but I found watercolor to be what I enjoy the most. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story, and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
+    title = "The Jailer's Way"
+    description = "At the vulnerable age of four, Theorie Jailer was taught that life changes without asking for permission. Small and scared, she was taken from New York along with her two brothers to live on a coffee plantation in Tanzania, Africa, where she is raised and loved by the only person her father could trust...An aging African woman named Mahtap. Mahtap's stories, music, and smile, are a moral compass and guide for Theorie over the next two decades of her life as she finds the answers to the mystery of who she is. Why was she brought to Tanzania? What are the strange symbols tattooed on her wrist? Who really were her parents? There is evilness behind the name Jailer, and she wants to understand what it is. Two decades change her in ways even her wild mind could never fathom. She learns through pain, fear, loss, and love, who she really is, and has to decide if fighting for justice is more important than healing her broken soul."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "book display.jpg"
     
-     [[params.block.item]]
-       icon = "fa-coffee"
-       title = "Coffee"
-
-    [[params.block.item]]
-      icon = "fa-music"
-      title = "Music"
-
-    [[params.block.item]]
-      icon = "fa-paint-brush"
-      title = "Artwork"
-
-    [[params.block.item]]
-      icon = "fa-etsy"
-      title = "Meloworks Studio"
-
-  # infos section
+    
+      # infos section
   [[params.block]]
     id = "infos"
     type = "text"
     title = "Gallery"
-    description = "If you have any questions I would love to hear from you. If you would like a commission quote, or to inquire about available pieces, feel free to contact me."
+    description = "If you have any questions I would love to hear from you. If you would like to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
     picture = "Watercolor -3.50.png"
   # custom section
