@@ -41,7 +41,7 @@ googleAnalytics = ""
     # the picture is stored at static/images/
     type = "hero"
     title = "Vivian Lark"
-    description = "Click on the links below to view the online gallery, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what pieces are available."
+    description = "Click on the links below to view the online gallery, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what original pieces and prints are available."
     buttontext = "begin"
 
   # about section
@@ -49,7 +49,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. My favorites being oil, ink, and watercolor. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas.I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story, and I believe that every face has a story to tell. Capturing a moment whether in writing or with a paintbrush is truly consoling."
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. My favorites being oil, ink, and watercolor. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story. Capturing a moment whether in writing or with a paintbrush is truly consoling."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Art_Photo.png"
