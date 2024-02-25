@@ -65,7 +65,7 @@ googleAnalytics = ""
     picture = "book display.jpg"
     
     
-      # infos section
+  # infos section
   [[params.block]]
     id = "infos"
     type = "text"
