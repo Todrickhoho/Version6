@@ -49,7 +49,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. My favorites being oil, ink, and watercolor. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them. I love to see everyday experiences as the plots to a good story. Capturing a moment whether in writing or with a paintbrush is truly consoling."
+    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "Fall flower gallery shot.jpg"
@@ -59,12 +59,12 @@ googleAnalytics = ""
     id = "skills"
     type = "list"
     title = "The Jailer's Way"
-    description = "At the vulnerable age of four, Theorie Jailer was taught that life changes without asking for permission. Small and scared, she was taken from New York along with her two brothers to live on a coffee plantation in Tanzania, Africa, where she is raised and loved by the only person her father could trust...An aging African woman named Mahtap. Mahtap's stories, music, and smile, are a moral compass and guide for Theorie over the next two decades of her life as she finds the answers to the mystery of who she is. Why was she brought to Tanzania? What are the strange symbols tattooed on her wrist? Who really were her parents? There is evilness behind the name Jailer, and she wants to understand what it is. Two decades change her in ways even her wild mind could never fathom. She learns through pain, fear, loss, and love, who she really is, and has to decide if fighting for justice is more important than healing her broken soul."
+    description = "At the vulnerable age of four, Theora Jailer was taught that life changes without asking for permission. Small and scared, she was taken from New York along with her two brothers to live on a coffee plantation in Tanzania, Africa, where she is raised and loved by the only person her father could trust...An aging African woman named Mahtab. Mahtab's stories, music, and smile, are a moral compass and guide for Theora over the next two decades of her life as she finds the answers to the mystery of who she is. Why was she brought to Tanzania? What are the strange symbols tattooed on her wrist? Who really were her parents? She learns through pain, fear, loss, and love, who she really is, and who she wants to be."
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "book display.jpg"
-    
-    
+
+
   # infos section
   [[params.block]]
     id = "infos"
@@ -74,7 +74,7 @@ googleAnalytics = ""
     # the picture is stored at static/images/
     picture = "Comp-1.jpg"
   # custom section
-  
+
   #[[params.block]]
    # id = "important"
     # to make custom section copy <theme>/layouts/partials/text.html to /layouts/partials/custom.html and edit it according to your needs.
@@ -111,7 +111,7 @@ googleAnalytics = ""
       [[params.footer.social]]
         title = "Instagramm"
         icon = "fa-instagram"
-        link = "https://www.instagram.com/melolarkstudio/"
+        link = "https://www.instagram.com/vivianlarkstudios/"
 
       [[params.footer.social]]
         title = ""
@@ -131,11 +131,11 @@ googleAnalytics = ""
         [[params.footer.social]]
         title = "Etsy"
         icon = "fa-etsy"
-        link = "https://www.etsy.com/shop/MeloworksStudio"
+        link = "https://www.etsy.com/shop/VivianLarkStudio"
 
       [[params.footer.social]]
         title = ""
-        icon = "" 
+        icon = ""
         link = ""
 
     # copyright
