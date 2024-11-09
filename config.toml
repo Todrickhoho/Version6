@@ -62,7 +62,7 @@ googleAnalytics = ""
     description = "At the vulnerable age of four, Theora Jailer was taught that life changes without asking for permission. Small and scared, she was taken from New York along with her two brothers to live on a coffee plantation in Tanzania, Africa, where she is raised and loved by the only person her father could trust...An aging African woman named Mahtab. Mahtab's stories, music, and smile, are a moral compass and guide for Theora over the next two decades of her life as she finds the answers to the mystery of who she is. Why was she brought to Tanzania? What are the strange symbols tattooed on her wrist? Who really were her parents? She learns through pain, fear, loss, and love, who she really is, and who she wants to be."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "book display.jpg"
+    picture = "New photo 2.jpg"
 
 
   # infos section
@@ -72,7 +72,7 @@ googleAnalytics = ""
     title = "Gallery"
     description = "If you have any questions I would love to hear from you. If you would like to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
-    picture = "Comp-1.jpg"
+    picture = "New photo 1.jpg"
   # custom section
 
   #[[params.block]]
@@ -90,7 +90,7 @@ googleAnalytics = ""
     type = "contact"
     title = "Get in Touch"
     # the picture is stored at static/images/
-    picture = "Comp-2.jpg"
+    picture = "New photo 3.jpg"
 
     [params.block.form]
       name = "Name"
