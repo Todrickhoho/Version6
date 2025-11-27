@@ -41,7 +41,8 @@ googleAnalytics = ""
     # the picture is stored at static/images/
     type = "hero"
     title = "Vivian Lark"
-    description = "Click on the links below to view the online gallery, order a copy of __The Jailer's Way__, or visit my Etsy shop to see what original pieces and prints are available."
+    description = "Click on the links below to view the online gallery, 
+    order a copy of __The Jailer's Way__, or visit my Etsy shop to see what original pieces and prints are available."
     buttontext = "begin"
 
   # about section
