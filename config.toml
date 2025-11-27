@@ -110,8 +110,9 @@ googleAnalytics = ""
 
       [[params.footer.social]]
         title = "Instagramm"
+        color = "white"
         icon = "fa-instagram"
-        link = "https://www.instagram.com/vivianlarkstudios/"
+        link = "https://www.instagram.com/vivianlarkart/"
 
       [[params.footer.social]]
         title = ""
