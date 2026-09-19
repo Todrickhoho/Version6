@@ -49,11 +49,13 @@ googleAnalytics = ""
   [[params.block]]
     id = "about"
     type = "text"
-    title = "Who am I"
-    description = "Hi, and thanks for visiting my website. I am an author and artist living in New York. I love to paint and draw using different mediums. From a young age I have enjoyed new projects and learning new ways of putting the beautiful things I see around me on to paper and canvas. I love making unique pieces that will put a smile on someone's face, or that will make a person stop and think about the world around them."
+    title = "About Me"
+    description = "I fell in love with painting around 12 years old when I was gifted an oil paint set and a wobbly ancient easle. It was once owned by a school teacher who taught in the early 1900’s. It’s palette and history sparked an appreciation for color and brushstrokes that can be transformed into something intriguing. 
+
+Working from a studio space within my home, I paint alongside my daily life and family. Driven by a love for visual storytelling, I value painting as a learning process that is refined through trial and error. With an ongoing dedication to learning new techniques, I am grateful for the people who take the time to appreciate the colors and the stories. "
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "Fall flower gallery shot.jpg"
+    picture = "First photo.jpg"
 
   # skill section
   [[params.block]]
@@ -63,7 +65,7 @@ googleAnalytics = ""
     description = "At the vulnerable age of four, Theora Jailer was taught that life changes without asking for permission. Small and scared, she was taken from New York along with her two brothers to live on a coffee plantation in Tanzania, Africa, where she is raised and loved by the only person her father could trust...An aging African woman named Mahtab. Mahtab's stories, music, and smile, are a moral compass and guide for Theora over the next two decades of her life as she finds the answers to the mystery of who she is. Why was she brought to Tanzania? What are the strange symbols tattooed on her wrist? Who really were her parents? She learns through pain, fear, loss, and love, who she really is, and who she wants to be."
     buttontext = "next"
     # the picture is stored at static/images/
-    picture = "New photo 2.jpg"
+    picture = "Books.jpg"
 
 
   # infos section
@@ -73,7 +75,7 @@ googleAnalytics = ""
     title = "Gallery"
     description = "If you have any questions I would love to hear from you. If you would like to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
-    picture = "New photo 1.jpeg"
+    picture = "Vivian Lark.jpg"
   # custom section
 
   #[[params.block]]
@@ -91,7 +93,7 @@ googleAnalytics = ""
     type = "contact"
     title = "Get in Touch"
     # the picture is stored at static/images/
-    picture = "New photo 3.jpg"
+    picture = "Montage.jpg"
 
     [params.block.form]
       name = "Name"
@@ -111,7 +113,7 @@ googleAnalytics = ""
 
       [[params.footer.social]]
         title = "Instagramm"
-        color = "white"
+        color = "Pink"
         icon = "fa-instagram"
         link = "https://www.instagram.com/vivianlarkart/"
 
@@ -122,6 +124,7 @@ googleAnalytics = ""
 
       [[params.footer.social]]
         title = "Amazon"
+        color = "Pink"
         icon = "fa-amazon"
         link = "https://www.amazon.com/Vivian-Lark/e/B07S8R1Z9B?ref_=dbs_p_ebk_r00_abau_000000"
 
@@ -132,6 +135,7 @@ googleAnalytics = ""
 
         [[params.footer.social]]
         title = "Etsy"
+        color = "Pink"
         icon = "fa-etsy"
         link = "https://www.etsy.com/shop/VivianLarkStudio"
 
