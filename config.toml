@@ -50,9 +50,7 @@ googleAnalytics = ""
     id = "about"
     type = "text"
     title = "About Me"
-    description = "I fell in love with painting around 12 years old when I was gifted an oil paint set and a wobbly ancient easle. It was once owned by a school teacher who taught in the early 1900’s. It’s palette and history sparked an appreciation for color and brushstrokes that can be transformed into something intriguing. 
-
-Working from a studio space within my home, I paint alongside my daily life and family. Driven by a love for visual storytelling, I value painting as a learning process that is refined through trial and error. With an ongoing dedication to learning new techniques, I am grateful for the people who take the time to appreciate the colors and the stories. "
+    description = "I fell in love with painting around 12 years old when I was gifted an oil paint set and a wobbly ancient easle. It was once owned by a school teacher who taught in the early 1900’s. It’s palette and history sparked an appreciation for color and brushstrokes that can be transformed into something intriguing. Working from a studio space within my home, I paint alongside my daily life and family. Driven by a love for visual storytelling, I value painting as a learning process that is refined through trial and error. With an ongoing dedication to learning new techniques, I am grateful for the people who take the time to appreciate the colors and the stories. "
     buttontext = "next"
     # the picture is stored at static/images/
     picture = "First photo.jpg"
