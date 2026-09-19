@@ -124,7 +124,6 @@ Working from a studio space within my home, I paint alongside my daily life and 
 
       [[params.footer.social]]
         title = "Amazon"
-        color = "Pink"
         icon = "fa-amazon"
         link = "https://www.amazon.com/Vivian-Lark/e/B07S8R1Z9B?ref_=dbs_p_ebk_r00_abau_000000"
 
@@ -135,7 +134,6 @@ Working from a studio space within my home, I paint alongside my daily life and 
 
         [[params.footer.social]]
         title = "Etsy"
-        color = "Pink"
         icon = "fa-etsy"
         link = "https://www.etsy.com/shop/VivianLarkStudio"
 
