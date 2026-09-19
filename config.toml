@@ -72,7 +72,7 @@ googleAnalytics = ""
     title = "Gallery"
     description = "If you have any questions I would love to hear from you. If you would like to inquire about available pieces, feel free to contact me."
     # the picture is stored at static/images/
-    picture = "Vivian Lark.jpg"
+    picture = "Vivian Lark 2.jpg"
   # custom section
 
   #[[params.block]]
@@ -110,7 +110,7 @@ googleAnalytics = ""
 
       [[params.footer.social]]
         title = "Instagramm"
-        color = "Pink"
+        color = "#FF69B4"
         icon = "fa-instagram"
         link = "https://www.instagram.com/vivianlarkart/"
 
@@ -121,6 +121,7 @@ googleAnalytics = ""
 
       [[params.footer.social]]
         title = "Amazon"
+        color = "#FF69B4"
         icon = "fa-amazon"
         link = "https://www.amazon.com/Vivian-Lark/e/B07S8R1Z9B?ref_=dbs_p_ebk_r00_abau_000000"
 
@@ -130,7 +131,8 @@ googleAnalytics = ""
         link = ""
 
         [[params.footer.social]]
-        title = "Etsy"
+        title ="Etsy"
+        color = "#FF69B4"
         icon = "fa-etsy"
         link = "https://www.etsy.com/shop/VivianLarkStudio"
 
